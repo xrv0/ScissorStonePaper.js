@@ -1,0 +1,21 @@
+button {
+    color: #0099CC;
+    background: transparent;
+    border: 2px solid #0099CC;
+    border-radius: 6px;
+    color: black;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    color: white;
+    background: #008CBA;
+}
+
+#content{
+    margin: 100px;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+}
